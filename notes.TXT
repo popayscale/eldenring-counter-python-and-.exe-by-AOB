@@ -1,0 +1,17 @@
+Salutation,
+Au lancement il faut patienter car le programme 
+recherche une adresse mémoire sur le processus
+"eldenring.exe"
+une fois fini l'affichage "Morts : xxx" s'ajuste automatiquement
+avec le nombre réel de morts dans la partie.
+
+Bon jeu ! 
+
+Greetings,
+At startup, you must be patient because the program 
+searches for a memory address on the process
+“eldenring.exe” process
+once finished, the “Deaths: xxx” display adjusts automatically
+with the actual number of deaths in the game.
+
+Enjoy the game! 
