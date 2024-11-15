@@ -1,3 +1,6 @@
+Fonctionnel pour la version 1.12  à tester sur la 1.13 prochainement? 
+
+
 Salutation,
 Au lancement il faut patienter car le programme 
 recherche une adresse mémoire sur le processus
